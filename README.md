@@ -3,8 +3,8 @@
 # [Project 1: Analyzing Man Fashions in E-commerce Shopee Indonesia](https://github.com/RodzanIskandar/analyzing_man_fashions_in_e-commerce_Shopee_Indonesia)
 This projects idea based on customers and seller response about  regulatory delivering system change by Shopee Indonesia in their e-commerce system who encourage some of the user to swicth the platform. [here is one of the viral threads in Twitter](https://twitter.com/ariefghozaly/status/1378040256348319744). the main idea is to get a bigger picture of man's fashion market in shopee Indonesia and compare it with another e-commerce platform to see the market opprtunity within the same category. I am scraped over 2000 product postings in sales man's fashion from [https://shopee.co.id/Pakaian-Pria-cat.33?page=0&sortBy=sales](https://shopee.co.id/Pakaian-Pria-cat.33?page=0&sortBy=sales) and answering some questions like what is the suitable sub-category market for newcomers in Shopee Indonesia?, what is the most effective store? etc.
 
-![](https://github.com/RodzanIskandar/analyzed-man-fashions-in-e-commerce-Shopee-Indonesia/blob/main/images/1.png) 
-![](https://github.com/RodzanIskandar/analyzed-man-fashions-in-e-commerce-Shopee-Indonesia/blob/main/images/2.png)
+![](/images/1.png) 
+![](/images/2.png)
 
 # [Project 2: Used Car Price Prediction](https://github.com/RodzanIskandar/used_craiglist_car_price_prediction)
 In this project, Iam designing machine learning regression model to able to predict used car price according to craiglist website data. So the seller can estimate their used car price based on car spesification and condition. The final result of this project is a simple website API so user can use directly in website to predict their used car.
