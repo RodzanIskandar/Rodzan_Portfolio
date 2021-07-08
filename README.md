@@ -9,7 +9,7 @@ This projects idea based on customers and seller response about  regulatory deli
 # [Project 2: Used Car Price Prediction](https://github.com/RodzanIskandar/used_craiglist_car_price_prediction)
 In this project, Iam designing machine learning regression model to able to predict used car price according to craiglist website data. So the seller can estimate their used car price based on car spesification and condition. The final result of this project is a simple website API so user can use directly in website to predict their used car.
 
-![](/images/Api%202.png)
+![](/images/Api2.png)
 
 # [Project 3: Airline Passenger Satisfaction](https://github.com/RodzanIskandar/Airline_Passenger_satisfaction)
 The Dataset contains an Airline Satisfaction Passenger survey from kaggle dataset [https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction](https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction). The purpose of this analysis is to get the insight about what factors are highly correlated to a satisfied (or dissatisfied) passenger, and also can the data predict the passenger satisfaction. 
