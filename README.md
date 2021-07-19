@@ -19,5 +19,5 @@ I am processing the e-commerce transaction data from the newcomer's e-commerce p
 # [Project 4: Analyzing Man Fashions in E-commerce Shopee Indonesia](https://github.com/RodzanIskandar/analyzing_man_fashions_in_e-commerce_Shopee_Indonesia)
 This project's idea is based on customers and seller responses about regulatory delivery system change by Shopee Indonesia in their e-commerce system who encourage some of the users to switch the platform. The main idea is to get a bigger picture of the man's fashion market in Shopee Indonesia and compare it with another e-commerce platform to see the market opportunity within the same category. I am scraped over 2000 product postings in sales man's fashion and answering some questions like what is the suitable sub-category market for newcomers in Shopee Indonesia? what is the most effective store? etc.
 
-![](/images/cat%20to%20sales.png) 
+![](/images/cattosales.png) 
 
