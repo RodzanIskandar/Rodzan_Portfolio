@@ -11,7 +11,7 @@ This project's idea is based on customers and seller responses about regulatory 
 
 ![](/images/cattosales.png) 
 
-# [Project 4: Used Car Price Prediction](https://github.com/RodzanIskandar/used_craiglist_car_price_prediction)
+# [Project 4: Used Car Craiglist Price Prediction](https://github.com/RodzanIskandar/used_craiglist_car_price_prediction)
 In this project, I am designing a machine learning regression model to able to predict used car prices according to Craiglist website data. So the seller can estimate their used car price based on car specifications and condition. The final result of this project is a simple website API so user can use directly in website to predict their used car.
 
 ![](/images/Api2.png)
