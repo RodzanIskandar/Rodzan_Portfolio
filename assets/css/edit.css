@@ -1,0 +1,38 @@
+#intro .content h1{
+    text-transform: capitalize;
+    text-align: center;
+    color:black;
+}
+
+#intro .content p{
+    text-align: center;
+    color:black;
+}
+
+#intro .content a{
+    color:black;
+}
+
+#intro .image img{
+    width:20em;
+    margin-bottom: 80px;
+    box-shadow: -10px 10px 5px black;
+}
+
+#intro{
+    background-color: #18bfef;
+}
+
+#header{
+    padding:1em;
+}
+
+
+#footer{
+    width:100%;
+}
+
+#footer section{
+    margin:auto;
+}
+
